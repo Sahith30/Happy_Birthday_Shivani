@@ -1,0 +1,138 @@
+#menu {
+    list-style: none;
+    z-index: 2;
+    position: absolute;
+    right: 50px;
+    font-family: Comic Neue;
+    top: 30px;
+    cursor: pointer;
+    float:
+}
+
+#intro {
+    background: linear-gradient(#2bb5f0, #ff2e5b);
+    padding-bottom: 50px;
+    top: 0;
+    z-index: 1;
+}
+
+#cake {
+    height: 300px;
+    width: 240px;
+    padding-left: 700px;
+}
+
+#start {
+    padding-top: 10px;
+    padding-left: 300px;
+    font-family: sans-serif;
+    font-size: 16px;
+    display: inline-block;
+
+}
+
+h1 {
+    text-align: center;
+    padding-top: 3px;
+}
+
+.topics:hover {
+    background: beige;
+    font-size: 17px;
+    padding-top: 5px;
+    color: black;
+}
+
+.topics {
+    color: beige;
+    font-size: 15px;
+    float: left;
+    padding: 10px;
+}
+
+#p1 {
+    height: 300px;
+    width: 300px;
+    padding: 40px;
+}
+
+#p3 {
+    height: 300px;
+    padding: 40px;
+}
+
+#p5,
+#p9 {
+    padding-right: 20px;
+    padding-bottom: 5px;
+}
+
+#p6 {
+    height: 300px;
+    width: 250px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+}
+
+#thoughts {
+    background-color: cyan;
+}
+
+#poem {
+    background-color: lime;
+}
+
+#pics {
+    background: linear-gradient(#9a5cf7, #f564bb, #6477f5);
+}
+
+#anarghya,
+#ananya,
+#shivansh,
+#sahith,
+#sahana,
+#aditi {
+    color: black;
+    float: right;
+    padding-right: 50px;
+    display: none;
+}
+
+#anarghya_thot,
+#ananya_thot,
+#shivansh_thot,
+#sahith_thot,
+#sahana_thot,
+#aditi_thot {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+#anarghya_thot:hover {
+    background: linear-gradient(cyan, #67f2f5, #97f5f7, #daf7f7, white);
+}
+
+#ananya_thot:hover {
+    background: linear-gradient(cyan, #67f2f5, #97f5f7, #daf7f7, white);
+}
+
+#shivansh_thot:hover {
+    background: linear-gradient(cyan, #67f2f5, #97f5f7, #daf7f7, white);
+}
+
+#sahith_thot:hover {
+    background: linear-gradient(cyan, #67f2f5, #97f5f7, #daf7f7, white);
+}
+
+#sahana_thot:hover {
+    background: linear-gradient(cyan, #67f2f5, #97f5f7, #daf7f7, white);
+}
+
+#aditi_thot:hover {
+    background: linear-gradient(cyan, #67f2f5, #97f5f7, #daf7f7, white);
+}
+
+.poooem {
+    text-align: center;
+    font-size: 20px;
+}
